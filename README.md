@@ -9,7 +9,7 @@ The script processes a CSV file containing athlete event data from the Olympics,
 
 #### Prerequisites
 - Node.js installed on your machine.
-- CSV file (athlete_events.csv) located in a ./data subdirectory([Install athlete_events.csv](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results).
+- CSV file (athlete_events.csv) located in a ./data subdirectory ([Install athlete_events.csv](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)).
 
 
 #### Installation
