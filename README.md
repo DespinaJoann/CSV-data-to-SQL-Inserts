@@ -11,7 +11,7 @@ The script processes a CSV file containing athlete event data from the Olympics,
 - Node.js installed on your machine.
 - CSV file (athlete_events.csv) located in a ./data subdirectory.
 
-#### Ins000tallation
+#### Installation
 
 - Clone the repository.
 - Navigate to the project directory.
