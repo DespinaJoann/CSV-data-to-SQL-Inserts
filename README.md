@@ -30,4 +30,4 @@ $ node index.js
 
 #### License
 
-This project is part of the 2nd university assignment for the Databases course at Harokopio University of Athens (HUA). Use it according to your course guidelines and requirements.
+This side project is part of the 2nd university assignment for the Databases course at Harokopio University of Athens (HUA) by Team 89 (Chalkiadaki Despina Ioanna, Koutsi Vasiliki Maria). Anyone is free to use it for their own modifications, experiments, and feel free to extend and improve it. This project is licensed under the ISC License, which permits open use, modification, and distribution.
